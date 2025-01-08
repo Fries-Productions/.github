@@ -16,3 +16,6 @@ Fries' Productions
 <h1 align="center">
   Adrean AI
 </h1>
+<br><br><br>
+
+wanna join? Click [here](https://github.com/Fries-Productions/Add-Member) to read how to get accepted
